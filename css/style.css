@@ -1,0 +1,20 @@
+body{
+    color: #3B3B3B;
+    font-family: 'Open Sans', sans-serif;
+}
+.font-color{
+    color: #FA804C;
+}
+.header-color{
+    background-color:red;
+}
+h1, h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 85px;
+    line-height: 80px;  
+}
+.body{
+    background-color:red;
+}
